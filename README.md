@@ -16,10 +16,11 @@
 ```javascript
 const hayyi = {
   pronouns: "He" | "Him",
-  code: ['Python', 'Java', 'JavaScript','HTML', 'CSS'],
-  tools: ['Microsoft Azure', 'Spark AR Studio', 'SketchUp', 'Unity', 'Docker'],
+  code: ['Python', 'Java', 'JavaScript','HTML', 'CSS', 'Google Apps Script'],
+  frameworks : ['React', 'React-Native'],
+  tools: ['Microsoft Azure', 'Spark AR Studio', 'SketchUp', 'Unity', 'Docker', 'Google Cloud'],
   areas: ['IoT', 'Chatbots', 'Design', 'Robotics'],
-  databases: ['Oracle', 'PostgreSQL', 'SQL Azure'],
+  databases: ['Oracle', 'PostgreSQL', 'SQL Azure', 'MySQL', 'Firebase'],
   
   techCommunities: {
                        host: "Robotics & Automation Society UAEMex",
