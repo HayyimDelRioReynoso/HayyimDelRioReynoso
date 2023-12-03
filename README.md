@@ -1,6 +1,6 @@
 <h1> Hello World, I'm Hayyim! <img align = 'left'  src="https://media.giphy.com/media/HkNPbfRhisIH6/giphy.gif" width="120"></h2>
 <img align='right' src="https://github.com/HayyimDelRioReynoso/HayyimDelRioReynoso/blob/main/Hayyim%20-%20Del%20Rio%20Reynoso.gif" width="250">
-<p><em>Computer Engineering Student at <a href="http://www.unb.br">UAEMex</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Computer Science Student at <a href="http://www.unb.br">UAEMex</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 
